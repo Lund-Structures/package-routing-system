@@ -18,12 +18,13 @@ Hash Table**, and an interactive **Tkinter MVC interface** to audit truck routes
 at any minute of the day.
 
 ---
+
 <!-- Quickstart Guide -->
 ## ![Fighter Jet](screenshots/jet_icon.svg) Quick Start
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)[your-username]/[repo-name].git
-   cd [repo-name]
+   git clone https://github.com/Lund-Structures/package-routing-system.git
+   cd package-routing-system
    ```
 2. Run the app:
    ```bash
